@@ -1,3 +1,5 @@
+package task_01;
+
 public class task_03 {
     public static void main(String[] args) {
         // Перевірка, що є хоча б один аргумент

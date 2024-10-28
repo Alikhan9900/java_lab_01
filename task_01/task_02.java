@@ -1,3 +1,5 @@
+package task_01;
+
 import java.util.Scanner;
 
 public class task_02 {

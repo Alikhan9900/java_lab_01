@@ -1,3 +1,5 @@
+package task_01;
+
 public class Task7 {
     public static void main(String[] args) {
         // Створення масиву символів латинського алфавіту
